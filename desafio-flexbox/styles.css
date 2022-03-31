@@ -1,0 +1,19 @@
+body {
+  background-color: #6fcf97;
+}
+
+.box {
+  margin-top: 40px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+}
